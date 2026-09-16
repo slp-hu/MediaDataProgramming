@@ -15,6 +15,50 @@
    "dtype": "int64",
    "data": [
     [
+     7
+    ],
+    [
+     9
+    ]
+   ]
+  }
+ },
+ "q3": {
+  "x": {
+   "__kind__": "ndarray",
+   "dtype": "int64",
+   "data": [
+    [
+     3,
+     10,
+     5
+    ]
+   ]
+  }
+ },
+ "q4": {
+  "x": {
+   "__kind__": "ndarray",
+   "dtype": "int64",
+   "data": [
+    [
+     8
+    ],
+    [
+     2
+    ],
+    [
+     -4
+    ]
+   ]
+  }
+ },
+ "q5": {
+  "x": {
+   "__kind__": "ndarray",
+   "dtype": "int64",
+   "data": [
+    [
      5,
      6,
      7
@@ -27,7 +71,7 @@
    ]
   }
  },
- "q3": {
+ "q6": {
   "x": {
    "__kind__": "ndarray",
    "dtype": "float64",
@@ -41,7 +85,7 @@
   "q1": {
    "shape": "loose"
   },
-  "q3": {
+  "q6": {
    "shape": "loose"
   }
  }
